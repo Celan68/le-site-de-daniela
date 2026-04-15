@@ -1,9 +1,10 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+Edera formation peut être contacté par 
 
-L'Échappée Belle est actuellement composée de 6 membres.
+Mail : [contact@edera-formation.eu](mailto:contact@edera-formation.eu)
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Téléphone : 0801 30 90 90 
