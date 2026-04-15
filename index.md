@@ -3,7 +3,7 @@ title: "EDERA Formation"
 order: 0
 in_menu: true
 ---
-({% link images/Gemini_Generated_Image_ee5dbxee5dbxee5d.png %}
+![Logo]({% link images/Gemini_Generated_Image_ee5dbxee5dbxee5d.png %})
 
 ## Bienvenue sur *Edera formation* 
 
