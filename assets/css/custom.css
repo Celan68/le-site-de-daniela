@@ -2,8 +2,8 @@
     --couleur-primaire : #993B1F;
 }
 /* Empêcher le logo de s'étirer sur toute la largeur */
-.site-header img, .logo img {
-    width: auto !important; 
-    max-height: 80px; /* Vous pouvez ajuster cette hauteur selon vos goûts */
-    display: block;
+header img, .site-header img, #logo img {
+    width: auto !important;
+    max-height: 80px !important;
+    display: inline-block !important;
 }
