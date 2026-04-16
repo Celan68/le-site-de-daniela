@@ -5,7 +5,7 @@ in_menu: true
 ---
 ![Logo]({% link images/Edera.png %})
 
-## Bienvenue sur *Edera formation* 
+## Bienvenue sur Edera formation
 
 #### Je suis Daniela Mongelli, enseignante de profession. 
 
