@@ -3,7 +3,7 @@
 }
 /* Empêcher le logo de s'étirer sur toute la largeur */
 .site-header .site-title img {
-    width: 150px !important; /* Force la largeur à 150 pixels */
+    width: 50px !important; /* Force la largeur à 150 pixels */
     height: auto !important;  /* Garde les proportions */
     display: inline-block;    /* Empêche de prendre toute la ligne */
 }
