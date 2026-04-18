@@ -3,9 +3,11 @@ title: "Contact"
 order: 1
 in_menu: true
 ---
+# **Contact :** adresse mail 
+
 L'entreprise est basée à Kingersheim, dans le Haut-Rhin.
 
-## Nos activités
+# Nos activités
 
 À titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
 
@@ -14,5 +16,5 @@ L'entreprise est basée à Kingersheim, dans le Haut-Rhin.
 - **Formation** diverses. 
 
 
-
-**Contact :** adresse mail 
+# Mode de paiement : 
+Il est possible de payer en utilisant le dispositif Cesu 
