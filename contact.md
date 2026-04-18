@@ -12,3 +12,7 @@ L'entreprise est basée à Kingersheim, dans le Haut-Rhin.
 - Accompagnement et **soutien scolaire**
 - Apprentissage de langues auprès d'**adultes et de jeunes**
 - **Formation** diverses. 
+
+
+
+**Contact :** adresse mail 
