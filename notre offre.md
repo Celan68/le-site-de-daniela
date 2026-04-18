@@ -17,6 +17,6 @@ in_menu: true
 
 10 heures = 320 € (à payer en avance)
 
-Les séances de soutien scolaire bénéficie d'un crédit d'impôt de 50 %. Elles peuvent être payées à travers le compte Cesu ou avec des chèques service à la personne.
+Les séances de soutien scolaire bénéficient d'un crédit d'impôt de 50 %. Elles peuvent être payées à travers le compte Cesu ou avec des chèques service à la personne.
 
 Les autres demandes de formation feront l'objet d'un devis à régler par virement bancaire ou par chèque. 
