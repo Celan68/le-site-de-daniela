@@ -3,8 +3,12 @@ title: "Contact"
 order: 1
 in_menu: true
 ---
-Edera formation peut être contacté par 
+L'entreprise est basée à Kingersheim, dans le Haut-Rhin.
 
-Mail : [contact@edera-formation.eu](mailto:contact@edera-formation.eu)
+## Nos activités
 
-Téléphone : 0801 30 90 90 
+À titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+
+- Accompagnement et **soutien scolaire**
+- Apprentissage de langues auprès d'**adultes et de jeunes**
+- **Formation** diverses. 
