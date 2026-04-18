@@ -3,8 +3,6 @@ title: "Notre offre"
 order: 4
 in_menu: true
 ---
-# Nos activités
-
 À titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
 
 - Accompagnement et **soutien scolaire**
